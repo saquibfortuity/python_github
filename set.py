@@ -15,7 +15,7 @@ print(set2)
 set2.difference()
 print(setnumber.difference(set2))
 A = {10, 20, 30, 40, 80}
-B = {100, 30, 80, 40, 60}
+B = {100, 30, 80, 40, 60, 80}
 print (A.difference(B))
 setnumber.difference_update()
 
