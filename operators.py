@@ -1,5 +1,5 @@
 x = 10
-y = 20
+y = 30
 
 #for this both of the condition has to be true to execute the statment
 print(x > 5 and y < 50)
