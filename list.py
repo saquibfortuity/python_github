@@ -7,8 +7,3 @@ print(cars)
 cars.append('test')
 print(cars)
 #denoted by []  ordered changeable can support duplicate values
-print(cars[0:])
-print(cars[0:3])
-print(cars[0::2])
-
-
