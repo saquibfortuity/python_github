@@ -5,7 +5,6 @@ num.add(12,12)
 #using predefined modules
 x = dir(math,)
 print(x)
-_
 
 
 

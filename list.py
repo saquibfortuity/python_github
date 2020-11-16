@@ -1,6 +1,6 @@
-cars = ['hello',10,'ford','example']
+cars = ['hello', 10, 'ford', 'example']
 print(cars)
-cars = ['hello',10,'ford','example']
+cars = ['hello', 10, 'ford', 'example']
 #cars[2] = 50
 print(cars)
 
