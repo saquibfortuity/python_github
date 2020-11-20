@@ -4,7 +4,6 @@ def percent_m(marks):
 
 def greet(name = "\nplease enter name "):
     print(f"good day {name}")
-
 marks1 = [68, 88, 75, 91]
 print(percent_m(marks1))
 marks2 = [55, 69, 75, 89]
