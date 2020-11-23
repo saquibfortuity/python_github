@@ -1,0 +1,1 @@
+sample2.txt for testing write function in python with write mode
