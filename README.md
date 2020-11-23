@@ -1,2 +1,2 @@
 # python_github
-practice for github 
+python practice
