@@ -1,0 +1,3 @@
+python training
+with django
+continuous integration using jenkins
