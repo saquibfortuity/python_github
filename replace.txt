@@ -1,0 +1,5 @@
+text to replace unwanted words from this text
+donkey
+monkey
+dog
+%@##@%
