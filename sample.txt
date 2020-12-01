@@ -1,0 +1,3 @@
+this is sample for f.write function in python
+this is sample for f.write function in python line 2
+this is sample for f.write function in python line 3
